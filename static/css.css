@@ -1,0 +1,14 @@
+body{
+  padding-top: 10%;
+}
+img {
+  max-width: 5%;
+  height: auto;
+}
+li{
+  padding: 10px;
+  border:1px solid #cecece;
+}
+.search{
+  padding-bottom: 16px;
+}
